@@ -1,6 +1,6 @@
 # 🗑️ TRASHED - Gudang Sampah Digital
 
-![Gambar Sampah](https://raw.githubusercontent.com/FardanFM/trashed/main/cdn/Thumb.jpg)
+![Gambar Sampah](https://raw.githubusercontent.com/FardanFM/trashed/main/Thumb.jpg)
 
 ## 📖 Tentang Repo Ini
 Ini bukan repo biasa, ini **TEMPAT SAMPAH** digital! 
